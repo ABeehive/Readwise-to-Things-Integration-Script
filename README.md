@@ -68,7 +68,7 @@ note of the task : the highlight
 
 ## License
 
-This script is open-source and available under the MIT License.
+This project is not licensed. Just have fun with it.
 
 ## Disclaimer
 
