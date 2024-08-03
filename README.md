@@ -72,4 +72,5 @@ This script is open-source and available under the MIT License.
 
 ## Disclaimer
 
-This script is provided as-is without any warranty. Use it at your own risk. Ensure you understand what the script does before running it. Make sure to TEST run it! 
+This script is provided as-is without any warranty. Use it at your own risk. Ensure you understand what the script does before running it. 
+**Make sure to TEST run it, as it deletes a tag as well**
