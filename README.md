@@ -1,11 +1,11 @@
 # Readwise-to-Things-Integration-Script
-This script fetches highlights from Readwise, filters them by a specific tag, and creates tasks in the Things app. It also removes the specified tag from the processed highlights.
+This script fetches highlights from Readwise, filters them by a specific tag, and creates tasks in the Things 3 app that match a specific tag. In this way you can create actionable highlights. The task in things has as the title '⭕️ [TITLE OF DOCUMENT]' and in the notes it has the highlight that is considered actionable. Afterwards it removes the specified tag from the processed highlights.
 
 ## Prerequisites
 
 - Python 3.x
 - `requests` library (install via `pip install requests`)
-- Things app installed on your macOS device
+- Things 3 app installed on your macOS device → https://culturedcode.com/things/ 
 - You need to enable the Things URL Scheme : https://culturedcode.com/things/support/articles/2803573/
 
 ## Setup
